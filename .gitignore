@@ -1,2 +1,5 @@
-generated-doc/
-jdk8u/
+generated-doc/*
+jdk8u/*
+
+!generated-doc/.gitkeep
+!jdk8u/.gitkeep
