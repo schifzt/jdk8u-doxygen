@@ -2,6 +2,8 @@
 
 doxygenを用いて[jdk8u](https://github.com/openjdk/jdk8u)のソースコードからOpenJDK8の日本語ドキュメントを生成する
 
+Generate documents on OpenJDK8 by doxygen from [jdk8u](https://github.com/openjdk/jdk8u) source codes.
+
 ## Directory structure
 - target source code: `jdk8u/jdk/src/share/classes/java/*`
 - generated document: `generated-doc/`
